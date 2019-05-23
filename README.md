@@ -1,1 +1,1 @@
-wp starter theme based on wp
+wp starter theme based on BS4
