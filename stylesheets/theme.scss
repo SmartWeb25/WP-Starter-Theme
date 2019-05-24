@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Gothic+A1:100,200,300,400,500,600,700,800,900&display=swap');
+
 @import "customVariables";
 // Core variables and mixins
 @import "bootstrap/variables";
@@ -51,5 +52,8 @@
 @import "bootstrap/utilities";
 @import "bootstrap/responsive-utilities";
 
-
+html {
+	font-size: 16px;
+}
+@import "hamburger";
 @import "header";
